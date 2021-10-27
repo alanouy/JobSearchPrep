@@ -94,6 +94,8 @@ return reverseListInt(next, head);
 
 
 
+Walk Through Iterative
+
 1. Using the iterative version.
 2. Make a while loop. While head is not null
 3. next = head.next

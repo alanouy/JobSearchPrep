@@ -25,7 +25,7 @@ Binary
 
 Dynamic Programming
 
-- [ ] Climbing Stairs - https://leetcode.com/problems/climbing-stairs/
+- [x] Climbing Stairs - https://leetcode.com/problems/climbing-stairs/
 - [ ] Coin Change - https://leetcode.com/problems/coin-change/
 - [ ] Longest Increasing Subsequence - https://leetcode.com/problems/longest-increasing-subsequence/
 - [ ] Longest Common Subsequence -
@@ -64,7 +64,7 @@ Interval
 
 Linked List
 
-- [ ] Reverse a Linked List - https://leetcode.com/problems/reverse-linked-list/
+- [x] Reverse a Linked List - https://leetcode.com/problems/reverse-linked-list/
 - [ ] Detect Cycle in a Linked List - https://leetcode.com/problems/linked-list-cycle/
 - [ ] Merge Two Sorted Lists - https://leetcode.com/problems/merge-two-sorted-lists/
 - [ ] Merge K Sorted Lists - https://leetcode.com/problems/merge-k-sorted-lists/
